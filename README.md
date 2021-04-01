@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsiu91
+- 👋 Hi, I’m Jonathan Siu @jsiu91
 - 👀 I’m interested in all things about developing and programming
 - 🌱 I’m currently learning React, Node, Ruby on Rails, Flask, etc.
 - 💞️ I’m looking to collaborate on more projects with other developers
